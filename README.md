@@ -22,6 +22,6 @@ Most of the elements on the page are done interactively.
 
 The project was made according to the 12-column figma layout.
 
-Project: https://reseneweb.github.io/Potr_Pots/
+Project: https://reseneweb.github.io/potr-pots/
 
 Layout: https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760-281&t=StIMkKflkGSlsFml-0
