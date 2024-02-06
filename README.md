@@ -2,7 +2,7 @@
 
 POTRPOTS - is a commercial project based on the sale of ecological, self-watering origami plant pots.
 
-The project used HTML, CSS, SASS, JS.
+The project used HTML, CSS, SCSS, JS.
 
 And BEM methodology to simplify and speed up development.
 
